@@ -1,0 +1,7 @@
+ian/com/iCare/tflite/TFLiteObjectDetectionAPIModel.java
+ ian.com.iCare.tflite.TFLiteObjectDetectionAPIModel
+ian/com/iCare/tflite/BuildConfig.java
+ ian.com.iCare.tflite.BuildConfig
+ian/com/iCare/tflite/Detector.java
+ ian.com.iCare.tflite.Detector
+ ian.com.iCare.tflite.Detector$Recognition
